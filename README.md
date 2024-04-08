@@ -1,5 +1,7 @@
 # JavaScript Backend Development
 
+![Alt Text](https://dz2cdn1.dzone.com/storage/temp/14227893-1607949811370.png)
+
 Welcome to the world of backend JavaScript development! This README serves as a guide to understanding and getting started with building backend applications using JavaScript.
 
 ## What is Backend JavaScript?
