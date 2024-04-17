@@ -1,1 +1,4 @@
-0x04-TypeScript
+# TypeScript
+
++ This project contains tasks for learning to use TypeScript.
+
